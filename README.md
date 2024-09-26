@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Paravthi KB</h1>
+<h1 align="center">Hi 👋, I'm Parvathi KB</h1>
 <h4 align="center">A normal girl working hard to find fullest and better version of herself:)</h4>
 
 <img src="https://storage.googleapis.com/dreamapp-symbols-public/dreamvideo/ae0c812b-3447-4bf3-b6d8-f0d55a5b9cf7.png" width="800" height="400" align="center" >
